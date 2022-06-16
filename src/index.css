@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #1f1f1f;
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.308),
+      #1f1f1f 90vh
+    ),
+    url("assets/bgMu.jpg");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+}
+
+@counter-style emoji {
+  system: cyclic;
+  symbols: "\2615";
+  suffix: " ";
+}
+
+li {
+  list-style-type: emoji;
+  margin-left: 50px;
+}
