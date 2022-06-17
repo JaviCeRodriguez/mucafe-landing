@@ -1,29 +1,14 @@
-# template-vite-react-ts-tailwind-v3
+# MuCafé Landing
 
-- **template of:** vite + react + typescript
-- **tailwindcss:** v3.x
+## Stack
 
-## Started
-```bash
-yarn
-# or `npm install`
-```
+- ⚛ React.js
+- 🟦 Typescript
+- ✌ Vite
+- 🪁 TailwindCSS
+- 🧉 Matecitos
 
----
-## Develop
-```bash
-yarn dev
-# or `npm run dev`
-```
+## Useful links
 
----
-## Build
-```bash
-yarn build
-# or `npm run build`
-```
-
----
-<p align="center">
-<img src="./powered-by-vitawind-bright.png">
-</p>
+- [MuCafé Discord](https://discord.gg/JZaruXcyEP)
+- [Website](https://mu.cafe/)
