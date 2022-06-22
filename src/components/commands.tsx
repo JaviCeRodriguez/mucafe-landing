@@ -13,6 +13,7 @@ export const Commands: React.FC = () => {
         <li>Bar: /bar</li>
         <li>PK: /pk</li>
         <li>Mensaje (a todo el server) /post</li>
+        <li>Auto party: /re on /re auto</li>
       </ul>
     </div>
   );
